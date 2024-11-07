@@ -1,3 +1,3 @@
 # About
 
-Jupyter notebooks from the JDE course by generation. Includes my own personal annotations.
+Jupyter notebooks from the JDE course by Generation (with my annotations), and some of my own personal practice notebooks.
